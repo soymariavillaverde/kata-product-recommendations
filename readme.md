@@ -1,6 +1,7 @@
 # Kata product recommendations (en)
 Welcome to the kata, <i>Product Recommendations</i>.
 
+<i>You are at the reset branch, from here you can restar the exercise.</i>
 
 ### Instructions
 Imagine that our platform generates product recommendations based on the visits that occur to each product page:
@@ -32,6 +33,7 @@ recommendations.getRecommendation() // should return "product_1"
 # Kata product recommendations (es)
 Bienvenido a la kata, <i>Product Recommendations</i>.
 
+<i>Estás en la rama de reset, desde aquí puedes reiniciar el ejercicio.</i>
 
 ### Instrucciones
 Imagina que nuestra plataforma genera recomendaciones de productos basados en las visitas que se producen a la página de cada producto:
